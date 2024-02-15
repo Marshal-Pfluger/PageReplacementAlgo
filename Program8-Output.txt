@@ -1,0 +1,73 @@
+Name:    Marshal Pfluger
+Course:  COSC 4302 Operating Systems
+Project: Eight
+
+
+
+Would you like to generate random numbers for the reference list?(y/n)
+n
+
+Enter page-reference string (space-separated, only 0-9): 
+12 4 2 6 4 10
+
+Your page-reference string was invalid
+
+Please try again, must be space-separated integers (0-9 only)
+1 6 2 8 4 3 5
+
+Enter the number of page frames: 
+3
+
+FIFO Page Faults: 7
+
+LRU Page Faults: 7
+
+Optimal Page Faults: 7
+
+Would you like to run the program again?(enter to rerun or 0 to exit)
+
+
+Would you like to generate random numbers for the reference list?(y/n)
+y
+
+How many numbers would you like to generate?:
+12
+
+2 2 0 7 5 7 6 6 0 4 0 2 
+
+Enter the number of page frames: 
+4
+
+FIFO Page Faults: 8
+
+LRU Page Faults: 7
+
+Optimal Page Faults: 6
+
+Would you like to run the program again?(enter to rerun or 0 to exit)
+
+
+Would you like to generate random numbers for the reference list?(y/n)
+n
+
+Enter page-reference string (space-separated, only 0-9): 
+1,2,5,2,8,5
+
+Your page-reference string was invalid
+
+Please try again, must be space-separated integers (0-9 only)
+1 2 5 3 7
+
+Enter the number of page frames: 
+3
+
+FIFO Page Faults: 5
+
+LRU Page Faults: 5
+
+Optimal Page Faults: 5
+
+Would you like to run the program again?(enter to rerun or 0 to exit)
+0
+
+Program has terminated, have a great day
